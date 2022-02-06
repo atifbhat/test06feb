@@ -77,3 +77,11 @@ button {
 button:hover {
     background: #05d008!important;
 }
+
+#n {
+    position: absolute;
+    top: 500px;
+    right: 0px;
+    background-color: #05d008;
+    width: 100%;
+}
